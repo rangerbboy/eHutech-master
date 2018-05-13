@@ -11,5 +11,6 @@ public class SV5TActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sv5_t);
         EditText mMssvView;
+        EditText masa;
     }
 }
