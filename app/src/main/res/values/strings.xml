@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eHutech</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="sv5t">Sinh Viên 5 Tốt</string>
+    <string name="lhtt">Lớp Học Tiên Tiến</string>
+    <string name="nckh">Nghiên Cứu Khoa Học</string>
+    <string name="trogiup">Trợ Giúp</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="MSSV">MSSV</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Đăng Nhập</string>
+    <string name="action_sign_in_short">Đăng Nhập</string>
+    <string name="error_invalid_mssv">Bạn Phải Nhập Mã Số Sinh Viên</string>
+    <string name="error_incorrect_password">Sai Mật Khẩu</string>
+    <string name="error_invalid_password">Bạn Phải Nhập Mật Khẩu!</string>
+    <string name="logout">Đăng Xuất</string>
+</resources>
